@@ -5,7 +5,7 @@ const Watch = () => {
 const increaseSteps =() =>{
     const nextSteps =steps + 1
     setSteps(nextSteps)
-    console.log(steps)
+   
 
 }
 useEffect(()=>{
