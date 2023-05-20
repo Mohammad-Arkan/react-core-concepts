@@ -1,9 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Device from './components/Device/Device' 
-import DeviceDetails from './components/DeviceDetails/DeviceDetails'
 import Watch from './components/watch/Watch'
 
 function App() {
